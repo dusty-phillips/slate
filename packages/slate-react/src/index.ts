@@ -3,6 +3,7 @@ export {
   RenderElementProps,
   RenderLeafProps,
   Editable,
+  EditableProps,
 } from './components/editable'
 export { DefaultElement } from './components/element'
 export { DefaultLeaf } from './components/leaf'
